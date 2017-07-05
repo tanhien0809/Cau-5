@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         print (person.fullName)
         
-        let xyz1 = XYZ(name: "Hien", prefix: nil)
+        let xyz1 = XYZ(name: "Tan Hien", prefix: nil)
         print(xyz1.fullName)
         
         let xyz2 = XYZ(name: "Tan Hien", prefix: "Bui")
